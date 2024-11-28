@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   https://ollys-ollys.com/ 
-  <img src="readme-images/homepage-ss.png" width="375px" alt="De homepagina van Olly's">
+  <img src="readme-images/1-homepage-ss.png" width="375px" alt="De homepagina van Olly's">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   https://ollys-ollys.com/pages/ollys-story
-  <img src="readme-images/our-story-ss.png" width="375px" alt="Het verhaal en ontstaan van het bedrijf Olly's">
+  <img src="readme-images/2-our-story-ss.png" width="375px" alt="Het verhaal en ontstaan van het bedrijf Olly's">
  
 </details>
 
@@ -70,13 +70,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/home-breakdownschets.png" width="375px" alt="breakdown van de homepagina">
+  <img src="readme-images/3-home-breakdownschets.png" width="375px" alt="breakdown van de homepagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/our-story-breakdownschets.png" width="375px" alt="breakdown van een de our-story-pagina">
+  <img src="readme-images/4-our-story-breakdownschets.png" width="375px" alt="breakdown van een de our-story-pagina">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/nav-breakdownschets.png" width="375px" alt="breakdown van nav hamburgermenu">
+  <img src="readme-images/5-nav-breakdownschets.png" width="375px" alt="breakdown van nav hamburgermenu">
 
 </details>
 
@@ -90,7 +90,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik moest weer heel erg wennen aan code schrijven, al is HTML het makkelijkste gedeelte, merkte ik dat ik moeite had met het uitschrijven van de structuur van het HTML-bestand. Dus ik hoop maar dat het zo goed is! De breakdownschets hielp mij hier wel goed bij.
 
 
   ### Agenda voor meeting
